@@ -1,4 +1,4 @@
-# Downloader-sagin https://sagin.pl  #### Autor: - Bartosz Lemieszko
+# Downloader-sagin https://sagin.pl
 
 https://sagin.pl
 
