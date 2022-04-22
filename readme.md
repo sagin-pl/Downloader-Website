@@ -1,5 +1,5 @@
 # Downloader-Website
-[![Release](https://img.shields.io/github/v/release/sagin-pl/Downloader-Website)](https://github.com/sagin-pl/Downloader-Website/releases)
+[![Release](https://img.shields.io/github/v/release/sagin-pl/downloader-website)](https://github.com/sagin-pl/Downloader-Website/releases)
 [![Project](https://img.shields.io/badge/project-SAGIN--PL-green)](https://github.com/sagin-pl)
 
 Downloader to strona internetowa umożliwiająca pobieranie zdjęć i filmów z popularnych platform takich jak Instagram, TikTok, Youtube.
