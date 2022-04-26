@@ -1,10 +1,5 @@
-<?php
-
-
-?>
-
 <!DOCTYPE html>
-<html>
+<html lang="pl">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,7 +14,7 @@
         <h1 class="mt-3 animate__animated animate__fadeInDown">Sagin.pl</h1>
         <form method="POST">
             <div class="mb-3">
-                <label for="UrL" class="form-label">Url do filmu</label>
+                <label for="url" class="form-label">Url do filmu</label>
                 <input type="url" class="form-control" name="vurl" id="url" aria-describedby="info">
                 <div id="info" class="form-text">Twoje dane są prywatne :tf:</div>
             </div>
