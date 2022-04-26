@@ -12,7 +12,9 @@ Downloader to strona internetowa umożliwiająca pobieranie zdjęć i filmów z 
 #### FUNKCJE
 - Pobieranie filmu lub zdjęcia
 
-# Screenshots
+## Screenshots
 <img src='https://imgur.com/Xz2y6Rh.jpg' height='240' width='550'/>
 
-# Changelog
+
+## Autor:
+- [Szurag](https://github.com/thebartle)
